@@ -16,15 +16,6 @@ import android.widget.EditText;
 
 import java.util.UUID;
 
-
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link CrimeFragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- * Use the {@link CrimeFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
 public class CrimeFragment extends Fragment {
 
     public static final String EXTRA_CRIME_ID = "com.jordanschwichtenberg.criminalintent.crime_id";
