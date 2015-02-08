@@ -16,4 +16,11 @@
 
     <string name="crimes_title">Crimes</string>
     <string name="title_activity_crime_pager">CrimePagerActivity</string>
+
+    <string name="choose_date_or_time_title">Edit date or time</string>
+    <string name="choose_date_option">Date</string>
+    <string name="choose_time_option">Time</string>
+
+    <string name="date_picker_title">Date of crime:</string>
+
 </resources>
